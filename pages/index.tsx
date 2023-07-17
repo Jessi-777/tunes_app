@@ -17,27 +17,27 @@ export default function Home() {
     {
       title: "Runaway - Tica Rey",
       srcMusic: "./music/01-Runaway.mp3",
-      imgSrc: "./images/001.jpg",
+      imgSrc: "/images/001.jpg",
     },
     {
       title: "Time - Tica Rey",
       srcMusic: "./music/02-Time.mp3",
-      imgSrc: "./images/002.jpg",
+      imgSrc: "/images/002.jpg",
     },
     {
       title: "Us - Tica Rey",
       srcMusic: "./music/03-Us.mp3",
-      imgSrc: "./images/003.jpg",
+      imgSrc: "/images/003.jpg",
     },
     {
       title: "Right Now - Tica Rey",
       srcMusic: "./music/04-Right-Now.mp3",
-      imgSrc: "./images/004.jpg",
+      imgSrc: "/images/004.jpg",
     },
     {
       title: "I know better know - Tica Rey",
       srcMusic: "./music/05-I-Know-Better-Now.mp3",
-      imgSrc: "./images/005.jpg",
+      imgSrc: "/images/005.jpg",
     },
   ]);
   const [playingList, setPlayingList] =
